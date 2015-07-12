@@ -1,6 +1,7 @@
 # examples for untwine
+paste these files into a new passage
 
-## cycling links
+## cycling links _(js and css)_
 links that cycle through a series of texts when you click on them, but more powerful!
 you can set a variable to a value when the text is changed, and even do maths!
 
